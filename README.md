@@ -18,11 +18,11 @@ npm run build
 ```
 npm run lint
 ```
-###
+#
+```
 vue create ***
 
 ```
-###
 
  安装mint-ui ：
      1. npm install mint-ui --save
@@ -36,11 +36,13 @@ vue create ***
          Vue.use(Mint)
 
 ```
-
-###
+#
+```
 
 @/views/index.vue  监听 计算属性
+
 @/views/my_child/watch.vue 监听 双向绑定
+
 @/components/tabbar.vue 组件传值
 
 ```
